@@ -2,9 +2,13 @@
 
 ## Grund funktionalitet: 
 Sätt in värden (TM)
+
 Räkna ut motsvarande träningsvikt
+
 Logga +1 set
+
 Gå igenom historia
+
 Uppdatera nästa veckas vikter automatiskt från +1 set
 	
 
@@ -27,4 +31,5 @@ Node.js -> Express -> .env
 
 ## Deployment:
 Nginx
+
 SSL certificates
